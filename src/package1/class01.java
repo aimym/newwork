@@ -6,6 +6,7 @@ public class class01 {
         System.out.println("12334566");
         System.out.println("second person");
 int hh = 9;
+String dd ="new";
 
         int ddd = 0;
 
